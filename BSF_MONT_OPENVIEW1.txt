@@ -1,0 +1,2 @@
+hostname BSF_MONT
+Monitor MGMT

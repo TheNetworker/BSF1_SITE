@@ -1,0 +1,3 @@
+hostname BSF_SRX2
+zone 1 DMZ BSF
+    allow mgmt
