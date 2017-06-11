@@ -1,3 +1,6 @@
 hostname BSF_SRX1
 zone 1 DMZ BSF
     allow mgmt
+
+zone 2 DMZ BSF
+    allow L2VPN
