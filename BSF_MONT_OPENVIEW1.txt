@@ -1,2 +1,4 @@
 hostname BSF_MONT
 Monitor MGMT
+Monitor L2VPN
+
