@@ -1,3 +1,7 @@
 hostname BSF_PE1
 int lo0
     ip add 10.10.10.1 255.255.255.0
+
+L2VPN Config 1
+
+L2VPN Config 2
